@@ -1,0 +1,6 @@
+{
+  "name": "Digitaal Dagboek",
+  "description": "Een rustgevend dagboek met dagelijkse reflectievragen, een live AI-spreuk van de dag, stemmingsicoontjes, schrijfreeks-teller en Excel-export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
